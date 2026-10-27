@@ -1,0 +1,204 @@
+{
+  "name": "Vedant Patil",
+  "email": "your.name@gmail.com",
+  "phone": "+91 90000 00000",
+  "college": "VIT Vellore",
+  "degree": "B.Tech Computer Science and Engineering",
+  "grad_year": 2026,
+  "cgpa": "8.49",
+  "location": "Maharashtra, India",
+  "github": "https://github.com/vedantp3",
+  "portfolio": "https://vedantpatil.vercel.app",
+  "linkedin": "https://linkedin.com/in/vedantpatil01",
+  "availability": "Immediate joiner; open to remote, hybrid or onsite",
+  "notice_period": "Immediate",
+  "expected_ctc": "As per company norms",
+  "certifications": [
+    "SAP Certified Associate - Generative AI Developer",
+    "SAP Business Data Cloud (BDC) Certification (Datasphere, SAC, BW integration, Databricks integration)",
+    "Google Cloud Generative AI",
+    "Complete SQL Bootcamp"
+  ],
+  "skills": {
+    "languages": [
+      "Python",
+      "Java",
+      "JavaScript (ES6+)",
+      "SQL",
+      "C",
+      "R"
+    ],
+    "ai_ml": [
+      "LLMs",
+      "RAG",
+      "Prompt Engineering",
+      "LangChain",
+      "LangGraph",
+      "FAISS",
+      "ChromaDB",
+      "Gemini",
+      "Mistral",
+      "OpenAI Embeddings",
+      "PyTorch",
+      "Neural Networks",
+      "CNNs",
+      "Fine-Tuning",
+      "EfficientNetV2B0",
+      "OpenCV",
+      "Ragas",
+      "LangSmith"
+    ],
+    "backend": [
+      "Flask",
+      "FastAPI",
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "JWT Authentication"
+    ],
+    "frontend": [
+      "React",
+      "HTML5",
+      "CSS3",
+      "Angular",
+      "Streamlit"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "MySQL",
+      "Supabase",
+      "SQLite",
+      "Database Design (3NF)",
+      "Query Optimization"
+    ],
+    "devops_cloud": [
+      "Docker",
+      "Jenkins",
+      "AWS EC2",
+      "Nginx",
+      "CI/CD Pipelines",
+      "GitHub Actions"
+    ],
+    "sap": [
+      "SAP Datasphere",
+      "SAP Analytics Cloud (SAC)",
+      "SAP Business Data Cloud",
+      "SAP BTP",
+      "SAP HANA Cloud",
+      "SAP Integration Suite",
+      "SAP Generative AI Hub",
+      "SAP AI Core & AI Launchpad",
+      "SAP S/4HANA (foundations)"
+    ],
+    "ai_assisted_dev": [
+      "Claude Code",
+      "Codex",
+      "Cursor"
+    ],
+    "cs_fundamentals": [
+      "Data Structures & Algorithms",
+      "OOP",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks",
+      "System Design"
+    ],
+    "product": [
+      "User Problem Framing",
+      "Metric Definition",
+      "Stakeholder Management"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Multimodal Math Mentor",
+      "tags": [
+        "ai_ml",
+        "agents",
+        "llm"
+      ],
+      "stack": "LangGraph, EasyOCR, Whisper, FAISS, Gemini Vision, Streamlit",
+      "proof": "5-agent LangGraph pipeline that answers handwritten, spoken and typed math queries (EasyOCR for images, Whisper for audio, Gemini Vision for diagrams, FAISS theory retrieval); a Human-in-the-Loop checkpoint below 80% confidence gave 25% fewer hallucinations and 30% better answer relevance on the eval set"
+    },
+    {
+      "name": "RAG Chatbot",
+      "tags": [
+        "ai_ml",
+        "rag",
+        "backend"
+      ],
+      "stack": "Python, LangChain, Mistral LLM, ChromaDB, OpenAI Embeddings, Flask, web scraping",
+      "proof": "RAG backend with document chunking (sliding-window overlap), vector retrieval with re-ranking and real-time web scraping, served through versioned Flask REST APIs with request validation and rate limiting; 30% better answer relevance and 25% fewer hallucinations across 100+ test queries"
+    },
+    {
+      "name": "NutriChamp",
+      "tags": [
+        "ai_ml",
+        "cv"
+      ],
+      "stack": "EfficientNetV2B0 CNN, FastAPI, Google Gemini, React/Vite, SQLite, Google Fit API",
+      "proof": "CNN classifying 239 Indian dish classes with nutrition data from IFCT 2017 and USDA; Gemini pipeline generating 7-day meal plans with constraints for Diabetes, Hypertension, PCOS and Anemia, replanned weekly from calorie and activity data"
+    },
+    {
+      "name": "StockPilot",
+      "tags": [
+        "devops",
+        "backend"
+      ],
+      "stack": "Python, Flask, MySQL, Docker, Jenkins, AWS EC2, Nginx",
+      "proof": "Inventory management app with Flask CRUD APIs, low-stock alerts and a 3NF MySQL schema; Docker multi-stage builds and a Jenkins CI/CD pipeline with automated unit tests and zero-downtime deployment to AWS EC2 behind an Nginx reverse proxy"
+    },
+    {
+      "name": "Property Rental Management System",
+      "tags": [
+        "full_stack",
+        "backend"
+      ],
+      "stack": "React, Node.js, Express, PostgreSQL, Supabase, JWT, REST API",
+      "proof": "React SPA with a Node.js/Express backend: real-time property listings via Supabase Realtime, geolocation filtering and booking workflows on PostgreSQL; SHA-256 hashing for tamper-proof rental agreement verification"
+    },
+    {
+      "name": "SAP Datasphere & SAC Analytics Project",
+      "tags": [
+        "sap",
+        "data"
+      ],
+      "stack": "SAP Datasphere, SAP Analytics Cloud",
+      "proof": "Modeled a sales dataset into a star schema (fact and dimension tables) in SAP Datasphere, built an Analytic Model with calculated measures and time hierarchies, and visualized it in SAC stories and dashboards"
+    }
+  ],
+  "experience": [
+    {
+      "org": "Walstar Technologies",
+      "role": "AI/ML & Software Engineering Intern",
+      "dates": "Jun 2025 - Jul 2025",
+      "proof": "Redesigned a domain-specific RAG chatbot (Mistral, LangChain) with custom chunking and re-ranking, improving answer quality by 30% and cutting user-facing errors by 25% across 100+ test cases; built a Python/OpenCV OMR grading pipeline with 95% accuracy that cut manual grading time by 80%; deployed versioned Flask REST APIs with blueprint routing for both systems"
+    },
+    {
+      "org": "Fyaril AB (Sweden, remote)",
+      "role": "Frontend Developer Intern",
+      "dates": "May 2025 - Jul 2025",
+      "proof": "Revamped the Help Center portal in React (collapsible FAQs, debounced instant search, dynamic multi-step forms), reducing average navigation time by 40%; improved page load performance by 30% with lazy loading, WebP compression and script deferral, benchmarked with Lighthouse"
+    },
+    {
+      "org": "Global IoT School",
+      "role": "Assistant Manager, Emerging Technology Coordinator (IoT, AI, Cybersecurity, SAP)",
+      "dates": "May 2026 - Present",
+      "proof": "Own program delivery across 3 districts (Kolhapur, Karad, Sangli): pitch AI, cybersecurity, IoT and SAP certification training to colleges, negotiate and sign MOUs, and manage execution through course completion, certification and placement assistance"
+    }
+  ],
+  "achievements": [
+    "Finalist, Shine India Health Startups (top teams across South India, AI-driven healthcare solution)",
+    "WebWiz Hackathon: built and deployed a full-stack web application in a 24-hour sprint"
+  ],
+  "standard_answers": {
+    "about_me": "",
+    "why_this_company": "",
+    "strengths": ""
+  },
+  "never_claim": [
+    "NSE stock analyzer project",
+    "open-source contributions",
+    "any project, link or metric not listed in this file"
+  ]
+}

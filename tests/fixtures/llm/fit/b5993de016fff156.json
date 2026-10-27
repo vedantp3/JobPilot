@@ -1,0 +1,12 @@
+{
+  "fixture_role": "SAP BTP Developer (Fresher)",
+  "response": {
+    "fit_score": 80,
+    "fit_reason": "SAP Generative AI Developer certification plus SAP BTP and Datasphere project work.",
+    "gaps": [
+      "SAP CAP",
+      "ABAP"
+    ],
+    "flags": []
+  }
+}

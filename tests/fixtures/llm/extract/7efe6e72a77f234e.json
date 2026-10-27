@@ -1,0 +1,85 @@
+{
+  "fixture": "03_multi_role.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Orbitly",
+        "role": "Data Analyst Intern",
+        "role_category": "data",
+        "batch_eligibility": "2025/2026",
+        "location": "Bangalore",
+        "work_mode": "hybrid",
+        "stipend_or_ctc": null,
+        "required_skills": [
+          "SQL",
+          "Python",
+          "Power BI"
+        ],
+        "jd_summary": "Data analyst internship at a Series A startup.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "data.hiring@orbitly.io",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": [
+          "vague JD"
+        ]
+      },
+      {
+        "company": "Orbitly",
+        "role": "Full Stack Developer",
+        "role_category": "full_stack",
+        "batch_eligibility": "2025/2026, 0-1 yrs",
+        "location": "Bangalore",
+        "work_mode": "hybrid",
+        "stipend_or_ctc": null,
+        "required_skills": [
+          "React",
+          "Node.js",
+          "MongoDB"
+        ],
+        "jd_summary": "Full stack developer role (0-1 years) at a Series A startup.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "rahul@orbitly.io",
+            "person_name": "Rahul"
+          }
+        ],
+        "post_quality_notes": [
+          "vague JD"
+        ]
+      },
+      {
+        "company": "Orbitly",
+        "role": "DevOps Intern",
+        "role_category": "devops",
+        "batch_eligibility": "2025/2026",
+        "location": "Bangalore",
+        "work_mode": "hybrid",
+        "stipend_or_ctc": null,
+        "required_skills": [
+          "AWS",
+          "Kubernetes",
+          "Terraform"
+        ],
+        "jd_summary": "DevOps internship at a Series A startup.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "data.hiring@orbitly.io",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": [
+          "vague JD"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "fixture": "10_same_recipient.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Acme AI",
+        "role": "Data Engineer Intern",
+        "role_category": "data",
+        "batch_eligibility": "2026",
+        "location": "Remote",
+        "work_mode": "remote",
+        "stipend_or_ctc": null,
+        "required_skills": [
+          "Python",
+          "Airflow",
+          "Spark",
+          "SQL"
+        ],
+        "jd_summary": "Data engineering internship working with Airflow, Spark and SQL.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "priya.sharma@acme.ai",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

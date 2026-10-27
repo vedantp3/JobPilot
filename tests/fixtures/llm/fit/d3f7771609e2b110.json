@@ -1,0 +1,9 @@
+{
+  "fixture_role": "Machine Learning Intern",
+  "response": {
+    "fit_score": 84,
+    "fit_reason": "Walstar RAG chatbot work and the RAG Chatbot project match the RAG/LLM focus directly.",
+    "gaps": [],
+    "flags": []
+  }
+}

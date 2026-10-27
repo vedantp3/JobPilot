@@ -1,0 +1,37 @@
+{
+  "fixture": "09_repost.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Acme AI",
+        "role": "ML Intern",
+        "role_category": "ai_ml",
+        "batch_eligibility": "2025/2026",
+        "location": "Remote",
+        "work_mode": "remote",
+        "stipend_or_ctc": "₹30k/month",
+        "required_skills": [
+          "Python",
+          "PyTorch",
+          "LLMs",
+          "RAG"
+        ],
+        "jd_summary": "Repost of the Acme AI machine learning internship.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "priya.sharma@acme.ai",
+            "person_name": null
+          },
+          {
+            "kind": "email",
+            "value": "careers@acme.ai",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

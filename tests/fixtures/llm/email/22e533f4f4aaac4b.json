@@ -1,0 +1,12 @@
+{
+  "fixture_role": "Machine Learning Intern",
+  "response": {
+    "body": "At Walstar Technologies I redesigned a domain-specific RAG chatbot (Mistral, LangChain) with custom chunking and re-ranking, improving answer quality by 30% and cutting user-facing errors by 25% across 100+ test cases. In my Multimodal Math Mentor project, a 5-agent LangGraph pipeline with a Human-in-the-Loop checkpoint gave 25% fewer hallucinations on the eval set.\n\nThat maps directly to your work on RAG pipelines and evaluation tooling with Python, PyTorch and LLMs, which is the stack I build with every day.\n\nI graduate from VIT Vellore in 2026 with a B.Tech Computer Science and Engineering and can join immediately, remote, hybrid or onsite. GitHub: https://github.com/vedantp3 Portfolio: https://vedantpatil.vercel.app Resume attached.",
+    "projects_used": [
+      "Multimodal Math Mentor"
+    ],
+    "employers_used": [
+      "Walstar Technologies"
+    ]
+  }
+}

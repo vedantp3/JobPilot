@@ -1,0 +1,16 @@
+🚀 Acme AI is hiring!
+
+Role: Machine Learning Intern
+Batch: 2025 / 2026
+Location: Remote
+Stipend: ₹30,000/month
+Duration: 6 months
+
+Skills: Python, PyTorch, LLMs, RAG
+
+Work on retrieval-augmented generation pipelines and evaluation tooling for our enterprise assistant.
+
+📩 Send your resume to Priya Sharma: priya.sharma@acme.ai
+Subject line: ML Intern - <Your Name>
+
+Join our channel for more updates 👉 https://t.me/techjobsdaily

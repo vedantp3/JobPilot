@@ -1,0 +1,12 @@
+{
+  "fixture_role": "DevOps Intern",
+  "response": {
+    "fit_score": 64,
+    "fit_reason": "StockPilot shows Docker, Jenkins CI/CD and AWS EC2 deployment.",
+    "gaps": [
+      "Kubernetes",
+      "Terraform"
+    ],
+    "flags": []
+  }
+}

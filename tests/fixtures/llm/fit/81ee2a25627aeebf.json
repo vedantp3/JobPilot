@@ -1,0 +1,12 @@
+{
+  "fixture_role": "Data Engineer Intern",
+  "response": {
+    "fit_score": 63,
+    "fit_reason": "Strong Python and SQL with data modelling work; no pipeline orchestration shown.",
+    "gaps": [
+      "Airflow",
+      "Spark"
+    ],
+    "flags": []
+  }
+}

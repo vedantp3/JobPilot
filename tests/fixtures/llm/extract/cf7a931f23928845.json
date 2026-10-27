@@ -1,0 +1,29 @@
+{
+  "fixture": "07_batch_mismatch.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Greyfin Technologies",
+        "role": "Software Engineer Trainee",
+        "role_category": "software_engineering",
+        "batch_eligibility": "2024/2025 only",
+        "location": "Mumbai",
+        "work_mode": null,
+        "stipend_or_ctc": "5 LPA",
+        "required_skills": [],
+        "jd_summary": "Software engineer trainee role for 2024 and 2025 graduates.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "talent@greyfin.com",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": [
+          "vague JD"
+        ]
+      }
+    ]
+  }
+}

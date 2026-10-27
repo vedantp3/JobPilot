@@ -1,0 +1,21 @@
+# Non-secret settings. Secrets live in .env.
+target_batch: 2026
+accept_roles: [ai_ml, software_engineering, backend, full_stack, data, product, sap, devops]
+reject_keywords: [unpaid, "pay to apply", "registration fee", "security deposit"]
+locations_ok: [remote, pune, mumbai, navi mumbai, bangalore, hyderabad, any]
+min_stipend_monthly_inr: 20000      # skip jobs paying under this per month (LPA is converted); 0 = no minimum
+recipient_cooldown_days: 7
+send_spacing_seconds: [90, 240]     # random delay between sends
+max_emails_per_day: 25
+fit_threshold: 50                   # 0-100; below -> skip, within 10 above -> flag
+email_max_words: 200                # emails must be under this (greeting + body, not the signature)
+link_prefill: true                  # Prefill button opens forms in Chrome on this computer (never submits)
+prefill_browser: auto               # auto = your installed Chrome, else Edge, else Playwright's Chromium
+llm_min_interval_seconds: 4         # min gap between LLM calls; keeps a --backfill under free-tier RPM
+
+# Paths (relative to the project root)
+db_path: data/jobpilot.db
+profile_path: profile.json
+resumes_dir: resumes
+prompts_dir: jobpilot/prompts
+browser_profile_dir: browser_profile   # persistent Playwright context (Google sign-in)

@@ -1,0 +1,11 @@
+{
+  "fixture_role": "Software Engineer Intern",
+  "response": {
+    "fit_score": 58,
+    "fit_reason": "Java is listed as a skill but no project or internship uses Java or Spring Boot.",
+    "gaps": [
+      "Spring Boot"
+    ],
+    "flags": []
+  }
+}

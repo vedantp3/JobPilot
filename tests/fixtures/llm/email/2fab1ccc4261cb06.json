@@ -1,0 +1,12 @@
+{
+  "fixture_role": "Full Stack Developer",
+  "response": {
+    "body": "I built the Property Rental Management System, a React SPA with a Node.js/Express backend on PostgreSQL, with real-time listings via Supabase Realtime and booking workflows. At Fyaril AB I revamped a React Help Center portal, reducing average navigation time by 40% and improving page load performance by 30%.\n\nYour stack is React, Node.js and MongoDB. My databases so far are PostgreSQL and MySQL rather than MongoDB, but the data modelling carries over and I learn new tools fast. React and Node.js already cover most of what you use.\n\nI graduate from VIT Vellore in 2026 with a B.Tech Computer Science and Engineering and can join immediately, remote, hybrid or onsite. GitHub: https://github.com/vedantp3 Portfolio: https://vedantpatil.vercel.app Resume attached.",
+    "projects_used": [
+      "Property Rental Management System"
+    ],
+    "employers_used": [
+      "Fyaril AB"
+    ]
+  }
+}

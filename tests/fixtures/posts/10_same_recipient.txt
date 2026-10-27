@@ -1,0 +1,7 @@
+Acme AI is also hiring a Data Engineer Intern!
+
+Batch: 2026
+Remote
+Skills: Python, Airflow, Spark, SQL
+
+Send your resume to priya.sharma@acme.ai

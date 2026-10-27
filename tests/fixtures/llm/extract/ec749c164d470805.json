@@ -1,0 +1,31 @@
+{
+  "fixture": "06_short_link.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Veltrix Consulting",
+        "role": "SAP BTP Developer (Fresher)",
+        "role_category": "sap",
+        "batch_eligibility": "2025/2026",
+        "location": "Navi Mumbai",
+        "work_mode": null,
+        "stipend_or_ctc": "4.5 LPA",
+        "required_skills": [
+          "SAP BTP",
+          "CAP",
+          "ABAP"
+        ],
+        "jd_summary": "Fresher SAP BTP developer role using CAP and basic ABAP.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "link",
+            "value": "https://bit.ly/veltrix-btp26",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "fixture_role": "Data Analyst Intern",
+  "response": {
+    "fit_score": 66,
+    "fit_reason": "SQL Bootcamp certification and the SAP Datasphere & SAC analytics project cover SQL and dashboarding.",
+    "gaps": [
+      "Power BI"
+    ],
+    "flags": [
+      "JD is very short; responsibilities unclear"
+    ]
+  }
+}

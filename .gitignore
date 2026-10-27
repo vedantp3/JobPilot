@@ -1,0 +1,47 @@
+# ---- Secrets: never commit ------------------------------------------------
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+token.json
+credentials*.json
+client_secret*.json
+
+# ---- Your personal data ---------------------------------------------------
+# your real profile (profile.example.json is the public template)
+/profile.json
+# your resume PDFs
+resumes/*
+!resumes/README.txt
+# SQLite tracker: every job, email and send
+data/
+# Prefill browser profile (contains Google sign-in cookies)
+browser_profile/
+# your own example emails and any other *.local.* files
+*.local.*
+exports/
+*.csv
+*.log
+
+# ---- Python / tooling -----------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Editors / OS ---------------------------------------------------------
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+desktop.ini

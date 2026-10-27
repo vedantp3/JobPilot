@@ -1,0 +1,13 @@
+{
+  "fixture_role": "Data Analyst Intern",
+  "response": {
+    "body": "In my SAP Datasphere & SAC Analytics Project I modeled a sales dataset into a star schema and built an Analytic Model with calculated measures and time hierarchies, visualized in SAC dashboards. At Walstar Technologies I built a Python/OpenCV grading pipeline with 95% accuracy that cut manual grading time by 80%.\n\nYour role asks for SQL, Python and Power BI. I haven't used Power BI yet, but my SAC dashboard work transfers directly and I learn BI tools quickly. I'd also be glad to be considered for the DevOps Intern role, where my Docker and Jenkins CI/CD work on StockPilot applies.\n\nI graduate from VIT Vellore in 2026 with a B.Tech Computer Science and Engineering and can join immediately, remote, hybrid or onsite. GitHub: https://github.com/vedantp3 Portfolio: https://vedantpatil.vercel.app Resume attached.",
+    "projects_used": [
+      "SAP Datasphere & SAC Analytics Project",
+      "StockPilot"
+    ],
+    "employers_used": [
+      "Walstar Technologies"
+    ]
+  }
+}

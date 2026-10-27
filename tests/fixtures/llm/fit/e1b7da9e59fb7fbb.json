@@ -1,0 +1,9 @@
+{
+  "fixture_role": "Backend Developer Intern",
+  "response": {
+    "fit_score": 76,
+    "fit_reason": "Property Rental Management System uses Node.js and PostgreSQL; StockPilot shows Docker deployment.",
+    "gaps": [],
+    "flags": []
+  }
+}

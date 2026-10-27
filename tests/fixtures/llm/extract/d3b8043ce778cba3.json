@@ -1,0 +1,31 @@
+{
+  "fixture": "02_google_form.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Nimbus Labs",
+        "role": "Backend Developer Intern",
+        "role_category": "backend",
+        "batch_eligibility": "2026",
+        "location": "Pune",
+        "work_mode": "onsite",
+        "stipend_or_ctc": "20k/month",
+        "required_skills": [
+          "Node.js",
+          "PostgreSQL",
+          "Docker"
+        ],
+        "jd_summary": "Backend developer internship working with Node.js, PostgreSQL and Docker.",
+        "deadline": "2026-10-31",
+        "contacts": [
+          {
+            "kind": "link",
+            "value": "https://docs.google.com/forms/d/e/1FAIpQLSf_nimbus_backend/viewform",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

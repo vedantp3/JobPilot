@@ -1,0 +1,36 @@
+{
+  "name": "Vedant Patil",
+  "email": "your.name@gmail.com",
+  "phone": "+91XXXXXXXXXX",
+  "college": "VIT Vellore",
+  "degree": "B.Tech Computer Science",
+  "grad_year": 2026,
+  "cgpa": "8.49",
+  "location": "Maharashtra, India",
+  "github": "https://github.com/vedantp3",
+  "portfolio": "https://vedantpatil.vercel.app",
+  "linkedin": "https://linkedin.com/in/vedant-patil-8739a6240",
+  "availability": "Immediate joiner; open to remote, hybrid or onsite",
+  "notice_period": "Immediate",
+  "expected_ctc": "As per company norms",
+  "certifications": ["SAP Certified Generative AI Developer", "Google Cloud Generative AI", "Complete SQL Bootcamp"],
+  "projects": [
+    {"name": "Multimodal Math Mentor", "tags": ["ai_ml", "agents", "llm"], "stack": "", "proof": ""},
+    {"name": "RAG Chatbot", "tags": ["ai_ml", "rag", "backend"], "stack": "", "proof": ""},
+    {"name": "NutriChamp", "tags": ["ai_ml", "cv"], "stack": "", "proof": ""},
+    {"name": "StockPilot", "tags": ["devops", "backend"], "stack": "", "proof": ""},
+    {"name": "Property Rental System", "tags": ["full_stack"], "stack": "", "proof": ""},
+    {"name": "Clara Pipeline", "tags": ["ai_ml", "data"], "stack": "", "proof": ""}
+  ],
+  "experience": [
+    {"org": "Walstar Technologies", "role": "AI/ML & Software Engineering Intern", "proof": "RAG chatbot, OMR pipeline, Flask APIs"},
+    {"org": "Fyaril AB (Sweden, remote)", "role": "Frontend Developer Intern", "proof": "Help Center portal revamp"},
+    {"org": "Global IoT School", "role": "Assistant Manager / Emerging Technology Coordinator", "proof": "AI/IoT/Cybersecurity/SAP training partnerships across 3 districts"}
+  ],
+  "standard_answers": {
+    "about_me": "",
+    "why_this_company": "",
+    "strengths": ""
+  },
+  "never_claim": ["reinforcement learning experience", "NSE stock analyzer project", "open-source contributions", "any project, link or metric not listed in this file"]
+}

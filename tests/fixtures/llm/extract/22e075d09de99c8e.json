@@ -1,0 +1,31 @@
+{
+  "fixture": "08_scam_fee.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "GlobalTech Solutions",
+        "role": "Data Science Intern",
+        "role_category": "ai_ml",
+        "batch_eligibility": null,
+        "location": null,
+        "work_mode": "remote",
+        "stipend_or_ctc": null,
+        "required_skills": [],
+        "jd_summary": "Work-from-home data science internship promising guaranteed placement; asks for a Rs. 999 registration fee.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "hr.globaltech.jobs@gmail.com",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": [
+          "asks for a registration fee",
+          "vague JD",
+          "personal Gmail used as HR address"
+        ]
+      }
+    ]
+  }
+}

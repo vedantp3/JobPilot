@@ -1,0 +1,9 @@
+{
+  "fixture_role": "AI Engineer Intern",
+  "response": {
+    "fit_score": 90,
+    "fit_reason": "Multimodal Math Mentor (5-agent LangGraph) and the Walstar RAG chatbot match agentic LLM work.",
+    "gaps": [],
+    "flags": []
+  }
+}

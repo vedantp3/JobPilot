@@ -1,0 +1,31 @@
+{
+  "fixture": "05_hyperlink_entity.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Kestrel Systems",
+        "role": "Software Engineer Intern",
+        "role_category": "software_engineering",
+        "batch_eligibility": "2026",
+        "location": "Hyderabad",
+        "work_mode": "onsite",
+        "stipend_or_ctc": null,
+        "required_skills": [
+          "Java",
+          "Spring Boot",
+          "MySQL"
+        ],
+        "jd_summary": "Software engineer internship working with Java, Spring Boot and MySQL.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "link",
+            "value": "https://jobs.lever.co/kestrel/7f3c2a91-intern-swe",
+            "person_name": null
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

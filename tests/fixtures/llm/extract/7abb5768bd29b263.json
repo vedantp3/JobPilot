@@ -1,0 +1,36 @@
+{
+  "fixture": "04_obfuscated_email.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Zentrix",
+        "role": "AI Engineer Intern",
+        "role_category": "ai_ml",
+        "batch_eligibility": "2026",
+        "location": "Remote",
+        "work_mode": "remote",
+        "stipend_or_ctc": "25,000 INR per month",
+        "required_skills": [
+          "Python",
+          "LangChain",
+          "LLMs"
+        ],
+        "jd_summary": "Internship building agentic workflows on LLMs.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "careers@zentrix.ai",
+            "person_name": null
+          },
+          {
+            "kind": "email",
+            "value": "neha@zentrix.ai",
+            "person_name": "Neha"
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

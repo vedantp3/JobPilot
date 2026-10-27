@@ -1,0 +1,32 @@
+{
+  "fixture": "01_single_email.txt",
+  "response": {
+    "jobs": [
+      {
+        "company": "Acme AI",
+        "role": "Machine Learning Intern",
+        "role_category": "ai_ml",
+        "batch_eligibility": "2025/2026",
+        "location": "Remote",
+        "work_mode": "remote",
+        "stipend_or_ctc": "₹30,000/month",
+        "required_skills": [
+          "Python",
+          "PyTorch",
+          "LLMs",
+          "RAG"
+        ],
+        "jd_summary": "6-month internship building retrieval-augmented generation pipelines and evaluation tooling for an enterprise assistant. Subject line requested: 'ML Intern - <Your Name>'.",
+        "deadline": null,
+        "contacts": [
+          {
+            "kind": "email",
+            "value": "priya.sharma@acme.ai",
+            "person_name": "Priya Sharma"
+          }
+        ],
+        "post_quality_notes": []
+      }
+    ]
+  }
+}

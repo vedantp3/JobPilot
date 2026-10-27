@@ -1,0 +1,13 @@
+{
+  "fixture_role": "Full Stack Developer",
+  "response": {
+    "fit_score": 72,
+    "fit_reason": "Property Rental Management System and the Fyaril React internship show full-stack and frontend work.",
+    "gaps": [
+      "MongoDB"
+    ],
+    "flags": [
+      "asks for 0-1 years; fine for a 2026 graduate but confirm it's not a senior role"
+    ]
+  }
+}

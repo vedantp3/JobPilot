@@ -1,0 +1,12 @@
+{
+  "fixture_role": "AI Engineer Intern",
+  "response": {
+    "body": "My Multimodal Math Mentor is a 5-agent LangGraph pipeline that answers handwritten, spoken and typed math queries; a Human-in-the-Loop checkpoint below 80% confidence gave 25% fewer hallucinations and 30% better answer relevance. At Walstar Technologies I redesigned a RAG chatbot with Mistral and LangChain, improving answer quality by 30%.\n\nAgentic workflows on LLMs with Python and LangChain is exactly what I have been building.\n\nI graduate from VIT Vellore in 2026 with a B.Tech Computer Science and Engineering and can join immediately, remote, hybrid or onsite. GitHub: https://github.com/vedantp3 Portfolio: https://vedantpatil.vercel.app Resume attached.",
+    "projects_used": [
+      "Multimodal Math Mentor"
+    ],
+    "employers_used": [
+      "Walstar Technologies"
+    ]
+  }
+}
